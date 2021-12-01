@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 55,
-    "timeDay": 142,
-    "timeWeek": 55,
-    "timeMonth": 55,
-    "timeYear": 55,
+    "time": 54,
+    "timeDay": 39,
+    "timeWeek": 54,
+    "timeMonth": 54,
+    "timeYear": 54,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/stats.uptimerobot.com",
     "slug": "uptime-robot",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.52%",
+    "uptimeDay": "80.33%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "96.52%",
+    "uptimeYear": "96.52%",
     "time": 1307,
-    "timeDay": 1187,
+    "timeDay": 0,
     "timeWeek": 1307,
     "timeMonth": 1307,
     "timeYear": 1307,
     "dailyMinutesDown": {
-      "2021-11-30": 0
+      "2021-12-01": 65,
+      "2021-11-30": 218
     }
   },
   {
@@ -54,7 +55,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-30": 1222,
+      "2021-12-01": 65,
+      "2021-11-30": 1440,
       "2021-11-29": 1440,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
