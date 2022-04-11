@@ -66,16 +66,16 @@
     "url": "https://www.mi-core.com",
     "icon": "https://favicons.githubusercontent.com/www.mi-core.com",
     "slug": "mi-core",
-    "status": "up",
-    "uptime": "95.02%",
+    "status": "down",
+    "uptime": "95.03%",
     "uptimeDay": "83.01%",
     "uptimeWeek": "92.64%",
-    "uptimeMonth": "78.21%",
-    "uptimeYear": "95.02%",
+    "uptimeMonth": "78.22%",
+    "uptimeYear": "95.03%",
     "time": 1138,
     "timeDay": 2242,
     "timeWeek": 1352,
-    "timeMonth": 1133,
+    "timeMonth": 1135,
     "timeYear": 1138,
     "dailyMinutesDown": {
       "2022-04-11": 109,
@@ -108,7 +108,7 @@
       "2022-03-13": 1440,
       "2022-03-12": 1167,
       "2022-03-11": 601,
-      "2022-03-10": 105
+      "2022-03-10": 83
     }
   }
 ]
