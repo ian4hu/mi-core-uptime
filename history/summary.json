@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/stats.uptimerobot.com",
     "slug": "uptime-robot",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "98.82%",
+    "uptimeYear": "98.83%",
     "time": 3844,
     "timeDay": 3154,
     "timeWeek": 3049,
@@ -66,15 +66,15 @@
     "url": "https://www.mi-core.com",
     "icon": "https://favicons.githubusercontent.com/www.mi-core.com",
     "slug": "mi-core",
-    "status": "up",
-    "uptime": "95.11%",
-    "uptimeDay": "97.89%",
+    "status": "down",
+    "uptime": "95.14%",
+    "uptimeDay": "97.88%",
     "uptimeWeek": "92.40%",
-    "uptimeMonth": "82.89%",
-    "uptimeYear": "95.11%",
+    "uptimeMonth": "83.00%",
+    "uptimeYear": "95.14%",
     "time": 1125,
     "timeDay": 769,
-    "timeWeek": 1225,
+    "timeWeek": 1237,
     "timeMonth": 1088,
     "timeYear": 1125,
     "dailyMinutesDown": {
@@ -109,7 +109,7 @@
       "2022-03-14": 787,
       "2022-03-13": 1440,
       "2022-03-12": 1167,
-      "2022-03-11": 481
+      "2022-03-11": 429
     }
   }
 ]
