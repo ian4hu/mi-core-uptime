@@ -69,10 +69,10 @@
     "url": "https://www.mi-core.com",
     "icon": "https://favicons.githubusercontent.com/www.mi-core.com",
     "slug": "mi-core",
-    "status": "up",
+    "status": "down",
     "uptime": "96.33%",
-    "uptimeDay": "94.09%",
-    "uptimeWeek": "88.35%",
+    "uptimeDay": "94.08%",
+    "uptimeWeek": "88.68%",
     "uptimeMonth": "72.79%",
     "uptimeYear": "96.33%",
     "time": 1061,
@@ -139,8 +139,7 @@
       "2022-05-12": 44,
       "2022-05-11": 17,
       "2022-05-07": 144,
-      "2022-05-06": 52,
-      "2022-05-04": 32
+      "2022-05-06": 52
     }
   }
 ]
