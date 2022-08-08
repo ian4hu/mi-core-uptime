@@ -24,12 +24,12 @@
     "slug": "uptime-robot",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "97.85%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.53%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.29%",
     "time": 2910,
-    "timeDay": 593,
+    "timeDay": 626,
     "timeWeek": 584,
     "timeMonth": 551,
     "timeYear": 2910,
@@ -71,15 +71,15 @@
     "url": "https://www.mi-core.com",
     "icon": "https://favicons.githubusercontent.com/www.mi-core.com",
     "slug": "mi-core",
-    "status": "up",
-    "uptime": "96.34%",
-    "uptimeDay": "91.67%",
-    "uptimeWeek": "89.90%",
+    "status": "down",
+    "uptime": "96.36%",
+    "uptimeDay": "94.53%",
+    "uptimeWeek": "91.88%",
     "uptimeMonth": "72.49%",
-    "uptimeYear": "96.34%",
+    "uptimeYear": "96.36%",
     "time": 1058,
-    "timeDay": 560,
-    "timeWeek": 1255,
+    "timeDay": 589,
+    "timeWeek": 1287,
     "timeMonth": 1344,
     "timeYear": 1058,
     "dailyMinutesDown": {
@@ -142,7 +142,7 @@
       "2022-05-15": 19,
       "2022-05-12": 44,
       "2022-05-11": 17,
-      "2022-05-07": 107
+      "2022-05-07": 49
     }
   }
 ]
