@@ -4,7 +4,7 @@
     "url": "https://ian4hu.github.io/mi-core-uptime/",
     "icon": "https://favicons.githubusercontent.com/ian4hu.github.io",
     "slug": "github-pages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 465,
     "timeMonth": 437,
     "timeYear": 335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Uptime Robot",
@@ -73,13 +75,13 @@
     "icon": "https://favicons.githubusercontent.com/www.mi-core.com",
     "slug": "mi-core",
     "status": "up",
-    "uptime": "96.05%",
-    "uptimeDay": "98.81%",
+    "uptime": "96.06%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "92.13%",
-    "uptimeYear": "96.05%",
+    "uptimeYear": "96.06%",
     "time": 1061,
-    "timeDay": 6256,
+    "timeDay": 918,
     "timeWeek": 2194,
     "timeMonth": 1235,
     "timeYear": 1061,
