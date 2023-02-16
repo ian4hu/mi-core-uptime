@@ -62,18 +62,19 @@
     "url": "https://www.mi-core.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mi-core.com.ico",
     "slug": "mi-core",
-    "status": "up",
-    "uptime": "88.69%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "88.71%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "46.41%",
-    "uptimeYear": "86.13%",
+    "uptimeMonth": "47.26%",
+    "uptimeYear": "86.14%",
     "time": 1044,
     "timeDay": 969,
     "timeWeek": 1094,
     "timeMonth": 1021,
     "timeYear": 1062,
     "dailyMinutesDown": {
+      "2023-02-16": 0,
       "2023-02-08": 17,
       "2023-02-02": 50,
       "2023-02-01": 464,
@@ -180,7 +181,7 @@
       "2022-06-12": 42,
       "2022-06-10": 63,
       "2022-06-06": 54,
-      "2022-05-30": 78
+      "2022-05-30": 54
     }
   }
 ]
