@@ -24,9 +24,9 @@
     "url": "https://stats.uptimerobot.com/KGWYxcDMMR",
     "icon": "https://icons.duckduckgo.com/ip3/stats.uptimerobot.com.ico",
     "slug": "uptime-robot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "95.53%",
+    "uptimeDay": "95.49%",
     "uptimeWeek": "99.11%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "99.39%",
@@ -36,6 +36,7 @@
     "timeMonth": 625,
     "timeYear": 795,
     "dailyMinutesDown": {
+      "2026-01-27": 1,
       "2026-01-26": 64,
       "2026-01-22": 25,
       "2026-01-18": 27,
@@ -92,7 +93,7 @@
     "timeMonth": 0,
     "timeYear": 2253,
     "dailyMinutesDown": {
-      "2026-01-27": 130,
+      "2026-01-27": 286,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
