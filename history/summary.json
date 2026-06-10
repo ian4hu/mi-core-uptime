@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 598,
-    "timeDay": 476,
-    "timeWeek": 507,
+    "time": 597,
+    "timeDay": 479,
+    "timeWeek": 505,
     "timeMonth": 537,
-    "timeYear": 593,
+    "timeYear": 592,
     "dailyMinutesDown": {
       "2025-12-24": 36
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.21%",
     "time": 859,
-    "timeDay": 557,
-    "timeWeek": 739,
-    "timeMonth": 1355,
-    "timeYear": 952,
+    "timeDay": 1021,
+    "timeWeek": 804,
+    "timeMonth": 1365,
+    "timeYear": 953,
     "dailyMinutesDown": {
       "2025-06-11": 27,
       "2025-06-17": 27,
@@ -92,7 +92,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mi-core.com.ico",
     "slug": "mi-core",
     "status": "down",
-    "uptime": "23.98%",
+    "uptime": "23.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -103,7 +103,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-09": 235,
+      "2026-06-10": 247,
+      "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -466,8 +467,7 @@
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
-      "2025-06-11": 1440,
-      "2025-06-10": 1440
+      "2025-06-11": 1440
     }
   }
 ]
